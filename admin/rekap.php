@@ -88,7 +88,7 @@
                 <th>G,M,P</th>
                 <th>T,N</th>
                 <th>P,Py,PPK,A,L</th>
-                <th>H,S,U,P,L</th>
+                <th>H,S,P,L</th>
                 <th>M,T</th>
                 <th>B,S,K</th>
                 <th>T,M,R</th>
